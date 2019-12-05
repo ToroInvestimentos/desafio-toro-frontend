@@ -38,7 +38,6 @@ Os seguintes critérios serão usados para avaliar sua UI:
 - Proximidade com o layout idealizado
 - Técnicas de renderização e manipulação do DOM
 - Sensibilidade com UI e senso crítico
-- 
 
 Os seguintes critérios serão usados para avaliar o seu código:
 - Lógica para transformação de dados
