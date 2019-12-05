@@ -10,16 +10,16 @@ As cotações devem ser recebidas a partir do nosso simulador de cotações que 
 
 ## Layout
 
-Acesse o layer completo no Figma [neste link](https://www.figma.com/file/WWD46DsIYNhoipr3WSqFPb/TESTE-TORO-FRONT-END?node-id=0%3A1)
+Acesse o layer completo (Desk e Mobile) no Figma [neste link](https://www.figma.com/file/WWD46DsIYNhoipr3WSqFPb/TESTE-TORO-FRONT-END?node-id=0%3A1)
 
-![Imagem de Yaktocat](screenshots/desktop.png)
+![Layout Desktop](screenshots/desktop.png)
 
 
 ## Requisitos
 
 - O layout produzido deve ser o mais proximo possível do disponibilizado e o styleguide deve ser respeitado
-- Os cards não devem piscar (entrar e sair) na tela quando os ativos sofrerem alterações de preço que determine alta ou baixa
-- Utilizar algum gerencimento de estado
+- Utilizar algum gerencimento de estado (terceiro ou próprio) para armazenar os dados obtidos do websocket
+- Responsividade (versão mobile inclusa no Figma)
 - Os cards não devem piscar (entrar e sair) na tela quando os ativos sofrerem alterações de preço que determine alta ou baixa
 - O projeto deve ser publicado em um repositório público no github.com, bitbucket.org ou gitlab.com
 - Testes automatizados
@@ -33,10 +33,11 @@ Acesse o layer completo no Figma [neste link](https://www.figma.com/file/WWD46Ds
 
 ## Critérios de Avaliação
 
-Os seguintes critérios serão usados para avaliar o resultado visual:
-- Estilização
+Os seguintes critérios serão usados para avaliar sua UI:
+- Estilização e hierarquia
 - Proximidade com o layout idealizado
 - Técnicas de renderização e manipulação do DOM
+- Sensibilidade com UI e senso crítico
 - 
 
 Os seguintes critérios serão usados para avaliar o seu código:
