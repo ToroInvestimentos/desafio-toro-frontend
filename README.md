@@ -24,7 +24,7 @@ Acesse o layer completo (Desk e Mobile) no Figma [neste link](https://www.figma.
 - O projeto deve ser publicado em um repositório público no github.com, bitbucket.org ou gitlab.com
 - Testes automatizados
 - README com instruções de como instalar as dependências do projeto, de como rodar a aplicação e como rodar os testes automatizados
-- Deve ser desenvolvido em Javascript ou Typescript e ser possível realizar build AOT do mesmo
+- Deve ser desenvolvido em Javascript com ou sem Typescript
 
 ### Bônus
 
@@ -43,14 +43,14 @@ Os seguintes critérios serão usados para avaliar sua UI:
 Os seguintes critérios serão usados para avaliar o seu código:
 - Lógica para transformação de dados
 - Estrutura do projeto
-- Legibilidade;
-- Escopo;
-- Organização do código;
-- Padrões de projeto;
-- Existência e quantidade de bugs e gambiarras;
-- Qualidade e cobertura dos testes;
-- Documentação;
-- Contexto e cadência dos commits.
+- Legibilidade
+- Escopo
+- Organização do código
+- Padrões de projeto
+- Existência e quantidade de bugs e gambiarras
+- Qualidade e cobertura dos testes
+- Documentação
+- Contexto e cadência dos commits
 
 ## Dúvidas
 
